@@ -54,7 +54,7 @@ OR<br>
 
 ### VOLUMES
  - 2 main varieties of volumes<br>
-	**Persistent** --> they will still exist when the contaner is stoppe <br>
+	**Persistent** --> they will still exist when the contaner is stopped <br>
  	**Ephemeral** --> they will be gone when no one (container) is using them<br>
 
 - Sharing a volume with the host (Persistant)<br>

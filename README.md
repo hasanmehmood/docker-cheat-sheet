@@ -8,7 +8,7 @@
 - List running containers<br>
  `docker ps`
 
-- List stopped containers<br>
+- List all containers (stopped & running)<br>
 `docker ps -a`
 
 - List last container <br>
